@@ -13,3 +13,5 @@ Ponto2:Angelica
 Fosco:Dora,Drogo,Dudo
 Drogo:Frodo
 Dudo:Daisy
+Lotho:Mungo
+Falco:Polo
